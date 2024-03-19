@@ -3,6 +3,8 @@ title: "trabajo1"
 author: "Sivi"
 format: html
 editor: visual
+bibliography: tarea.bib
+link-citations: true 
 ---
 
 ## Quarto
@@ -25,3 +27,13 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+# Trabajo 1
+
+La investigación sobre percepción de desigualdad económica ha tenido un auge durante los últimos años [@mijsParadoxInequalityIncome2021]
+
+Específicamente, se ha encontrado evidencia sobre que... [@mijsParadoxInequalityIncome2021]. De todas formas, plantea que...
+
+Así mismo, Mijs señala que... [@mijsParadoxInequalityIncome2021]
+
+Aunque ambos concluyen que... [@mijsParadoxInequalityIncome2021]
